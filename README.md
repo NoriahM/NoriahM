@@ -16,7 +16,7 @@
 
  💬 Ask me about **blockchain & solidity**
 
- 📫 How to reach me **noriahmudassir@gmail.com**
+ 📫 How to reach me **noriahmudassir2k1@gmail.com**
   
   
  
