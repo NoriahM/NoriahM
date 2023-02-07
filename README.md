@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Noriah!!</h1>
-<h3 align="center">Decentralizing the digital world, one commit at a time!</h3>
+<div align="center" width="50">
+<img alt="Coding"  width="100%" src="https://i.imgur.com/vfylIkx.png">
+<div align="center">
 <div align="center" width="50">
 <img alt="Coding"  width="60%" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <div align="center">
