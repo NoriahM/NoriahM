@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<img alt="Coding"  width="100%" src="https://i.imgur.com/vfylIkx.png">
+<img alt="Coding"  width="100%" src="https://i.imgur.com/nbqjEsT.png%22%3E">
 <div align="center">
 <div align="center" width="50">
 <img alt="Coding"  width="60%" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
