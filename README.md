@@ -9,9 +9,9 @@
 <a href="https://github.com/noriahm?tab=followers"><img src="https://img.shields.io/github/followers/noriahm?label=Followers&style=social" alt="Badge"></a>
   <hr/>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noriahm" alt="noriahm" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noriahm&theme=nord" alt="noriahm" /></a> </p>
   <hr/>
-  
+ 
 
  🌱 I’m currently learning **Hardhat DAOs**
 
